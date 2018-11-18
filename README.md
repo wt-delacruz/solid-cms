@@ -1,2 +1,2 @@
 # solid-cms
-A CMS using Ponzu
+A headless CMS using Ponzu
