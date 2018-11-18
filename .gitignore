@@ -1,1 +1,4 @@
 .idea/*
+analytics.db
+uploads/*
+system.db
